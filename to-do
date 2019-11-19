@@ -1,0 +1,26 @@
+DONE ------ generate models for player and table
+DONE ------ Create a robust back-end restful API
+DONE ------ allow for editing of profiles 
+DONE ------ Utilize session storage so that you dont have to keep signing in 
+DONE ------ clean up querys. alcohol may not be necessary.. just look at them and shore them up
+DONE ------ upload backend to Heroku. Heroku name = 'air-dnd-api'
+DONE ------ get api to display users address
+DONE ------ fix sorting method of table so that searches can be reversed. I think the way this will need to be acheived is possibly creating states for each sort. The display state will be queried against the other states and utilizing the " " to reset queries
+DONE ------ prevent unauthorized access by way of forced redirects
+DONE ------ Need to find a way to hash password
+DONE ------ Need to find a way to hide password
+DONE ------ Can edit tables... but cannot return to table view
+
+Password is broken. Don't need to know it to sign in
+Need to populate forms with current information
+??? figure out that error you get when deleting table
+Get frontend looking halfway decent
+deploy frontend react to Heroku
+redirect on table create
+
+
+____Stretch____
+Full user info does not need to be kept as "user" or sent to storage. Only log what is necessary for functionality
+Validation for address
+attach players to tables
+using google-maps api, create search areas based on location through addresses
