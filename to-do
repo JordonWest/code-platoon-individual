@@ -12,25 +12,27 @@ DONE ------ Need to find a way to hide password
 DONE ------ Can edit tables... but cannot return to table view
 DONE ------ Need to populate forms with current information
 DONE ------ Get frontend looking halfway decent
+DONE ------ Signin does not redirect
+DONE ------ After creating a table, return throws errors
+DONE ------ redirect on table create
+DONE ------ Fix links to everywhere
+DONE ------ Move logout button to profile and make profile not suck
+DONE ------ ??? figure out that error you get when deleting table
+DONE ------ deploy frontend react to Heroku
 
 
-Change title Icon
-Signin does not redirect, and logout button kills page.
-Password is broken. Don't need to know it to sign in
-??? figure out that error you get when deleting table
-deploy frontend react to Heroku
-redirect on table create
-After creating a table, return throws errors
-Fix links to everywhere
-Move logout button to profile
+
 
 ____CSS to do____
 clean up navbar
 
 
-
 ____Stretch____
+If user has no tables, "My tables" doesnt sort any tables
+Change title Icon
+Password is broken. Don't need to know it to sign in
 Full user info does not need to be kept as "user" or sent to storage. Only log what is necessary for functionality
+logout button kills page.
 Validation for address
 attach players to tables
 using google-maps api, create search areas based on location through addresses
