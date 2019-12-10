@@ -1,0 +1,1 @@
+web: gunicorn DnD_proj.wsgi
